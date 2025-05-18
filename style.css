@@ -2,7 +2,7 @@
 * {
   box-sizing:border-box;
 }
-body {
+.body {
   background-color:#e7e7e7;
   max-width: 700px;
   padding-left: 50px;
