@@ -15,10 +15,8 @@ body {
 }
 
 /* Header with a blue bottom border */
-header {
+.header {
   border-bottom: 2px solid rgb(0, 114, 207);
-  padding-top: 50px;
-  padding-left: 50px;
   background-color: #fff;
 }
 
