@@ -8,31 +8,50 @@
 
 /* Body styles */
 body {
-  font-family: Arial, sans-serif;
+  font-family: Helvetica, Arial, sans-serif;
   background-color: #f9f9f9;
   color: #333;
   line-height: 1.6;
 }
 
+a:link {
+  color: #217823;
+  text-decoration: none;
+}
+
+a:visited {
+  color: gray;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #43e646;
+  text-decoration: underline;
+}
+
+a:active {
+  color: #00cbff;
+  text-decoration: none;
+}
+
 /* Header with a blue bottom border */
 .header {
-  border-bottom: 2px solid rgb(0, 114, 207);
-  background-color: #fff;
+  border-bottom: 2px solid #2394bd;
+  max-width: 20rem;
+}
+
+.menu {
+  margin-top: 0.8rem;
 }
 
 /* Container with class "body" having left margin */
 .body {
-  margin-left: 50px;
-  padding: 20px;
+  margin: 3rem;
 }
 
-/* Utility classes */
-.text-center {
-  text-align: center;
-}
-
-.mt-20 {
-  margin-top: 20px;
+.body-text {
+  margin-top: 2rem;
+  max-width: 40rem;
 }
 
 /* Add more styles below as needed */
