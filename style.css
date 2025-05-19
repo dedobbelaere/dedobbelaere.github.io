@@ -40,6 +40,8 @@ a:active {
   text-decoration: none;
 }
 
+html, body {height: 100%;}
+
 /* Header with a blue bottom border */
 .header {
   border-bottom: 2px solid #2394bd;
@@ -68,6 +70,7 @@ a:active {
 
 /* Container with class "body" having left margin */
 .body {
+  min-height: 100%;
   margin: auto;
   max-width: 60rem;
   padding: 3.5rem;
