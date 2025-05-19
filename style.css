@@ -16,6 +16,10 @@ body {
   line-height: 1.6;
 }
 
+a { 
+  color:#217823
+}
+
 a:link {
   color: #217823;
   text-decoration: none;
