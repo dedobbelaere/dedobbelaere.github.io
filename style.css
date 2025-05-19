@@ -47,7 +47,9 @@ a:active {
 
 /* Container with class "body" having left margin */
 .body {
-  margin: 3rem;
+  margin: auto;
+  width: 40rem;
+  padding: 3rem;
 }
 
 .body-text {
