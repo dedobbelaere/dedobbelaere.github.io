@@ -32,8 +32,23 @@ a:active {
 /* Header with a blue bottom border */
 .header {
   border-bottom: 2px solid #2394bd;
-  max-width: 20rem;
   line-height: 1.15;
+}
+
+.header2 {
+  margin-bottom: 1rem;
+}
+
+.header3 {
+  margin-bottom: 0.5rem;
+}
+
+.cv {
+  margin-bottom: 0.5rem;
+}
+
+.indent {
+  margin-left: 0.3rem;
 }
 
 .menu {
@@ -43,7 +58,7 @@ a:active {
 /* Container with class "body" having left margin */
 .body {
   margin: auto;
-  max-width: 40rem;
+  max-width: 50rem;
   padding: 3rem;
 }
 
