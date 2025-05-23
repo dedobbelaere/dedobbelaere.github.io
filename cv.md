@@ -36,7 +36,7 @@ Host, *In the Same Vein*, Podcast, "6: On AI in Medicine with Erika Ramsdale, MD
 *UW-Madison* Honors in the Major - Philosophy (2022)  \
 *UW-Madison* Honors in the Liberal Arts (2022)\
 *UW-Madison* Dean’s List Spring 2022\
-*UW-Madison* UW-Madison Dean’s List Fall 2019\
+*UW-Madison* UW-Madison Dean’s List Fall 2019
 
 ## Professional Experience
 
