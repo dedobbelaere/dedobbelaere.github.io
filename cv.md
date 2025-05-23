@@ -13,7 +13,7 @@ This is my academic CV. My corporate experience can be found [here](https://www.
 **University of Wisconsin-Madison**\
 *College of Letters & Science Honors, Madison WI*\
 B.A. Philosophy with Comprehensive Honors (2022)\
-*Thesis:* Contingency in Spinoza’s *Ethics*: A Defense of the Strict Necessitarian Interpretation
+Thesis: "Contingency in Spinoza’s *Ethics*: A Defense of the Strict Necessitarian Interpretation"
 
 **University of Rochester**\
 *School of Arts & Sciences*\
@@ -28,7 +28,7 @@ Ph.D. Philosophy (expected 2029)
 &nbsp;&nbsp;&nbsp;&nbsp;2024 University of Rochester Graduate Epistemology Conference
 
 ## Public Philosophy
-*Host*, In the Same Vein Podcast, "6: On AI in Medicine with Erika Ramsdale, MD"
+Host, *In the Same Vein*, Podcast, "6: On AI in Medicine with Erika Ramsdale, MD"
 <iframe style="border-radius:12px; margin-bottom:-3rem" src="https://open.spotify.com/embed/episode/7KBSNOnbv5C2CsOe0bjZnI?utm_source=generator" width="100%" height="150" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ## Grants and Honors
