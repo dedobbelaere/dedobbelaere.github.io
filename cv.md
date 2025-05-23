@@ -3,12 +3,50 @@ layout: page
 title: Curriculum Vitae
 ---
 
-<p class="message">
-  Hey there! This site is still under construction. Sorry for any glitches!
-</p>
+This is my academic CV. My corporate experience can be found [here](https://www.linkedin.com/in/dedobbelaere/)
 
-I was born in Chicago, Illinois and raised in the suburbs. I did my undergraduate degree at the University of Wisconsin-Madison, where I majored in philosophy and graduated with Comprehensive Honors (both Honors in the Major and Honors in the Liberal Arts). I wrote my undergraduate thesis on Spinoza's modal metaphysics in the *Ethics* under the supervision of [James Messina](https://sites.google.com/a/wisc.edu/james-messina).
+## Education
 
-After undergrad I worked at Epic Systems in Verona, Wisconsin for two years. I was a project manager on the population health team, where most of my projects were related to value-based care programs and Medicare Advantage contracts. During this time I also served as an ethics consultant for the artificial intelligence and machine learning team. Working as an ethics consultant reminded me how much I missed philosophy, and I began my Ph.D. at the University of Rochester in the fall of 2024. My adviser is [Paul Audi](https://www.sas.rochester.edu/phl/people/faculty/audi_paul/index.html). In bioethics, I work with [Jonathan Herington](https://jherington.com/index.php) on algorithmic fairness.
+**University of Wisconsin-Madison**\
+*College of Letters & Science Honors, Madison WI*\
+B.A. Philosophy with Comprehensive Honors (2022)\
+*Thesis:* Contingency in Spinoza’s *Ethics*: A Defense of the Strict Necessitarian Interpretation
 
-Outside of philosophy you can find me reading (especially experimental fiction), playing chess, or working at a local pizza joint. 
+**University of Rochester**\
+*School of Arts & Sciences*\
+Ph.D. Philosophy (expected 2029)
+
+## Talks and Comments
+
+*A Mereological Middle-Ground: Mind-Dependence and Composite Objects*\
+&nbsp;&nbsp;&nbsp;&nbsp;18th Annual Western Michigan University Graduate Conference
+
+*Comments on Akshan DeAlwis’ “Complexity and Knowledge with and Inferential Etiology”*\
+&nbsp;&nbsp;&nbsp;&nbsp;2024 University of Rochester Graduate Epistemology Conference
+
+## Public Philosophy
+*Host*, In the Same Vein Podcast, "6: On AI in Medicine with Erika Ramsdale, MD"
+<iframe style="border-radius:12px; margin-bottom:-3rem" src="https://open.spotify.com/embed/episode/7KBSNOnbv5C2CsOe0bjZnI?utm_source=generator" width="100%" height="150" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+## Grants and Honors
+
+*UW-Madison* Honors in the Major - Philosophy (2022)  \
+*UW-Madison* Honors in the Liberal Arts (2022)\
+*UW-Madison* Dean’s List Spring 2022\
+*UW-Madison* UW-Madison Dean’s List Fall 2019\
+
+## Professional Experience
+
+**Epic Systems Corporation**\
+*AI Ethics Analyst, 2022-2023*\
+I worked with programmers and quality assurance analysts to investigate ethical issues in artificial intelligence and machine learning projects. Large language models, risk scores, and predictive models were evaluated for cohort bias, automation bias, and patient safety risks. When ethical problems were identified, I would propose changes to remove or mitigate ethical issues in the design of the product, in its implementation, and in user training.
+
+## Service
+
+**Sifting & Winnowing Foundation**\
+*Board Member & Public Relations Director, 2019-2022*\
+The Sifting & Winnowing Foundation was a public policy organization that put on a yearly policy memo conference at UW-Madison. I oversaw the branding, marketing, and growth strategy for the organization, including the design of the published journal. I also managed a team of graphic designers and social media managers who carried out day-to-day publicity and publishing work.
+
+**Avukah Journal of Jewish Studies**\
+*Creative Director, 2018-2019*\
+I created a full brand toolkit for the journal, including logo, typefaces, and layouts. I trained and led a team of graphic designers in the production of the journal and in the future management of the journal's brand.
