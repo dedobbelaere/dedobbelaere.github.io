@@ -95,7 +95,7 @@ h2 {
   font-size: 1.5rem;
 }
 h3 {
-  margin-top: 0.6rem;
+  margin-top: 1.5rem;
   font-size: 1.25rem;
 }
 h4, h5, h6 {
@@ -121,6 +121,11 @@ ul, ol, dl {
 }
 
 li {
+  margin-bottom: 1.2rem;
+}
+
+li h3 {
+  margin-top: 0;
   margin-bottom: 1.2rem;
 }
 
@@ -337,14 +342,15 @@ tbody tr:nth-child(odd) th {
   margin-bottom: 4em;
 }
 
+.post-title {
+  margin-top: 0;
+}
+
 /* Blog post or page title */
 .page-title,
 .post-title,
 .post-title a {
   color: #303030;
-}
-.page-title,
-.post-title {
   margin-top: 0;
 }
 

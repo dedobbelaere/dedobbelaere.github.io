@@ -2,8 +2,11 @@
 layout: page
 title: Curriculum Vitae
 ---
+***
 
 This is my academic CV. My corporate experience can be found [here](https://www.linkedin.com/in/dedobbelaere/)
+
+***
 
 ## Education
 

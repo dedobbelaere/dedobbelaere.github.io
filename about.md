@@ -2,6 +2,7 @@
 layout: page
 title: About Me
 ---
+***
 
 I was born in Chicago, Illinois and raised in the suburbs. I did my undergraduate degree at the University of Wisconsin-Madison, where I majored in philosophy and graduated with Comprehensive Honors (both Honors in the Major and Honors in the Liberal Arts). I wrote my undergraduate thesis on Spinoza's modal metaphysics in the *Ethics* under the supervision of [James Messina](https://sites.google.com/a/wisc.edu/james-messina).
 
