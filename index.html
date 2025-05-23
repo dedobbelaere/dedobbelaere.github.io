@@ -1,26 +1,37 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Adam DeDobbelaere</title>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-  <meta name="robots" content="index,follow">
-  <meta name="generator" content="GrapesJS Studio">
-  <link rel="stylesheet" href="./style.css">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">
-  </head>
-<body>
-    <div class="body">
-  <header class="header">
-    <h1>Adam DeDobbelaere</h1></header>
-    <div class="menu"><a href="/" title="Home">Home</a> |
-    <a href="/bio" title="Bio">Bio</a> |
-    <a href="/CV" title="CV">CV</a> |
-    <a href="/contact" title="Contact">Contact</a>
-    </div>
-  <div class="body-text">My name is Adam DeDobbelaere. I'm a Ph.D. student in philosophy at the University of Rochester. Most of my research is in metaphysics, especially material composition, paradoxes, and time. I also have interests in bioethics and metaethics. Outside philosophy I enjoy playing chess, reading, and writing fiction. You can find my bio, CV, and contact info at the links above.</div>
+---
+layout: default
+title: Home
+---
+
+<div class="posts">
+  {% for post in paginator.posts %}
+  <div class="post">
+    <h1 class="post-title">
+      <a href="{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h1>
+
+    <span class="post-date">{{ post.date | date_to_string }}</span>
+
+    {{ post.content }}
   </div>
-</body>
-</html>
+  {% endfor %}
+</div>
+
+<div class="pagination">
+  {% if paginator.next_page %}
+    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
+  {% else %}
+    <span class="pagination-item older">Older</span>
+  {% endif %}
+  {% if paginator.previous_page %}
+    {% if paginator.page == 2 %}
+      <a class="pagination-item newer" href="{{ site.baseurl }}">Newer</a>
+    {% else %}
+      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Newer</a>
+    {% endif %}
+  {% else %}
+    <span class="pagination-item newer">Newer</span>
+  {% endif %}
+</div>
