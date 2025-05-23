@@ -5,4 +5,8 @@
 layout: home
 ---
 
+<p class="message">
+  Hey there! This site is still under construction. Sorry for any glitches!
+</p>
+
 My name is Adam DeDobbelaere (pronounced dee-dah-bil-air). I'm a Ph.D. student in philosophy at the University of Rochester. Most of my research is in metaphysics, especially material composition, paradoxes, and time. I also have interests in bioethics and metaethics.
