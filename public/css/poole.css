@@ -346,8 +346,16 @@ tbody tr:nth-child(odd) th {
   margin-top: 0;
 }
 
+.page-title {
+  margin-top: 0;
+  color: #eeeeee;
+  padding-top: 4rem;
+  background-image: url(water-lillies-monet.jpg);
+  background-position: bottom;
+  text-indent: 0.5rem;
+}
+
 /* Blog post or page title */
-.page-title,
 .post-title,
 .post-title a {
   color: #303030;
@@ -356,6 +364,11 @@ tbody tr:nth-child(odd) th {
 
 .page-heading {
   margin-top: 0;
+  color: #eeeeee;
+  padding-top: 4rem;
+  background-image: url(water-lillies-monet.jpg);
+  background-position: left;
+  text-indent: 0.5rem;
 }
 
 /* Meta data line below post title */
