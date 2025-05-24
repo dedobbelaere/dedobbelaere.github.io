@@ -10,12 +10,12 @@ This is my academic CV. My corporate experience can be found [here](https://www.
 
 ## Education
 
-**University of Wisconsin-Madison**\
-*College of Letters & Science Honors, Madison WI*\
+**University of Wisconsin-Madison** Madison, WI\
+*College of Letters & Science Honors*\
 B.A. Philosophy with Comprehensive Honors (2022)\
 Thesis: "Contingency in Spinoza’s *Ethics*: A Defense of the Strict Necessitarian Interpretation"
 
-**University of Rochester**\
+**University of Rochester** Rochester, NY\
 *School of Arts & Sciences*\
 Ph.D. Philosophy (expected 2029)
 
@@ -53,3 +53,14 @@ The Sifting & Winnowing Foundation was a public policy organization that put on 
 **Avukah Journal of Jewish Studies**\
 *Creative Director, 2018-2019*\
 I created a full brand toolkit for the journal, including logo, typefaces, and layouts. I trained and led a team of graphic designers in the production of the journal and in the future management of the journal's brand.
+
+## Pizza
+
+**Pontillo's Pizza** Bushnell's Basin, NY
+*Pizza Cook, 2025*
+
+**Parkway Pizza** Minneapolis, MN
+*Pizza Cook, Spring 2024*
+
+**Fox's Pizza** Hinsdale, IL
+*Host, Fall 2016*
