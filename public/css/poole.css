@@ -348,9 +348,9 @@ tbody tr:nth-child(odd) th {
 
 .page-title {
   margin-top: 0;
-  color: #eeeeee;
+  color: #fff;
   padding-top: 4rem;
-  background-image: url(water-lillies-monet.jpg);
+  background-image: url(water-lillies-monet.png);
   background-position: bottom;
   text-indent: 0.5rem;
 }
@@ -366,7 +366,7 @@ tbody tr:nth-child(odd) th {
   margin-top: 0;
   color: #eeeeee;
   padding-top: 4rem;
-  background-image: url(water-lillies-monet.jpg);
+  background-image: url(water-lillies-monet.png);
   background-position: left;
   text-indent: 0.5rem;
 }
