@@ -56,11 +56,11 @@ I created a full brand toolkit for the journal, including logo, typefaces, and l
 
 ## Pizza
 
-**Pontillo's Pizza** Bushnell's Basin, NY
-*Pizza Cook, 2025*
+**Pontillo's Pizza** Bushnell's Basin, NY\
+*Pizza Cook, Summer 2025*
 
-**Parkway Pizza** Minneapolis, MN
+**Parkway Pizza** Minneapolis, MN\
 *Pizza Cook, Spring 2024*
 
-**Fox's Pizza** Hinsdale, IL
+**Fox's Pizza** Hinsdale, IL\
 *Host, Fall 2016*
