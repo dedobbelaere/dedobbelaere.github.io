@@ -236,7 +236,7 @@ a.sidebar-nav-item:focus {
 .theme-base-de .sidebar {
   background-color: #23779b;
   background-image: url(monet-sidebar.png);
-  background-position: center;
+  background-position: left 50%;
   background-size: cover;
 }
 .theme-base-de .content a,
