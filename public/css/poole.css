@@ -347,7 +347,7 @@ tbody tr:nth-child(odd) th {
   color: #fff;
   padding-top: 4rem;
   background-image: url(water-lillies-monet.png);
-  background-position: bottom;
+  background-position: left 0% bottom 0%;
   text-indent: 0.5rem;
 }
 
@@ -363,7 +363,7 @@ tbody tr:nth-child(odd) th {
 /* Blog post or page title */
 .post-title,
 .post-title a {
-  color: #303030;
+  color: #fff;
   margin-top: 0;
 }
 
