@@ -348,7 +348,7 @@ tbody tr:nth-child(odd) th {
   padding-top: 4rem;
   background-image: url(water-lillies-monet.png);
   background-position: left 0% bottom 0%;
-  text-indent: 0.5rem;
+  padding-left: 0.5rem;
 }
 
 .page-title {
@@ -357,7 +357,7 @@ tbody tr:nth-child(odd) th {
   padding-top: 4rem;
   background-image: url(water-lillies-monet.png);
   background-position: bottom;
-  text-indent: 0.5rem;
+  padding-left: 0.5rem;
 }
 
 /* Blog post or page title */
@@ -373,7 +373,7 @@ tbody tr:nth-child(odd) th {
   padding-top: 4rem;
   background-image: url(water-lillies-monet.png);
   background-position: left;
-  text-indent: 0.5rem;
+  padding-left: 0.5rem;
 }
 
 /* Meta data line below post title */
