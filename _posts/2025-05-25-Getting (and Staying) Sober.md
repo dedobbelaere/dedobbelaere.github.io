@@ -8,6 +8,8 @@ I quit drinking at 21, and so far I'm glad I did. I've managed (for the most par
 
 ***
 
+<a title="New Orleans Brewing Co, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:New_Orleans_Brewing_Company_4-X_Beer_label.jpg"><img width="512" alt="New Orleans Brewing Company 4-X Beer label" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/New_Orleans_Brewing_Company_4-X_Beer_label.jpg/512px-New_Orleans_Brewing_Company_4-X_Beer_label.jpg?20240526162808"></a>
+
 ### The Long, Long Road to Sobriety
 
 I started drinking when I was 16, probably. I don't have a single memory that sticks out as my first time being drunk, or my first beer, or my first blackout. Precision isn't important. There were parties in basements, cheap beer, and (awful) flavored vodka. When I drank, I drank heavily, but generally no more than my peers. My experience was, I think, typical for the Midwest suburban teenager. 
@@ -36,6 +38,8 @@ Which, now that I write it out, sounds like a pretty fun night. Unfortunately fo
 
 My mental state was a complete mess. Totally wild and uncontrolled thoughts, like a Jackson Pollock in my frontal lobe. I was coming off of almost twenty-four hours of benzo sedation combined with the tail end of a two day hangover and withdrawal from my antidepressants, which I hadn't taken in at least two days. Again, I got lucky. There was already an appointment scheduled with my therapist that day. I felt like I had hit rock bottom. My therapist reminded me that rock bottom is a casket. I don't remember what else we talked about the rest of the session, but I do remember feeling like everything was going to be okay. I knew that drinking wasn't right for me, and I was ready to quit.
 
+<a title="Tee Cee from Cheshire, UK, CC BY 2.0 &lt;https://creativecommons.org/licenses/by/2.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Go_Sober_(37544722296).jpg"><img width="512" alt="Go Sober (37544722296)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Go_Sober_%2837544722296%29.jpg/512px-Go_Sober_%2837544722296%29.jpg?20250113230612"></a>
+
 ### Getting Sober for Dummies
 
 The first step to getting sober is identifying your favorite flavor of Ben & Jerry's ice cream. This takes time. My first week of sobriety I ate a pint of Ben & Jerry's every day. I also dropped five pounds. Turns out beer is a lot of calories. Some purists might say that you shouldn't replace one bad habit with another. To them I offer a simple thought experiment. Suppose that you want to quit drinking, but the only thing that keeps you from drinking is smoking cigarettes. The cigarettes will kill you by 60, but the booze will kill you by 45. Maybe in an ideal world where quitting drinking cold turkey is feasible, you live to 75. Given that the actual world is not ideal, and so the world where you quit cold turkey isn't accessible, the better option is the one that kills you at 60. 
@@ -49,6 +53,8 @@ There seems to be an idea out there in the culture that getting sober means maki
 Instead, I have found it much more useful to keep in mind the following truth: it's possible that I will drink again. Someone could kidnap me and force whiskey down my throat. I could mistake an alcoholic beverage for a non-alcoholic one. I could just have a bad day and decide to buy a bottle of rum. In fact, I did drink again after college. I'm never sure whether to count it as a relapse or just write it off, because (unlike a traditional relapse) it was a thoroughly considered decision. I talked with my doctor, with my therapist, and with my friends, and decided to try drinking again to see if it would feel any different now that I had graduated. I didn't go on any major benders (except one excellent night in Sheboygan), but I found after a couple months with booze that the preceding fifteen months without it caused me to lose my taste for the juice. I haven't had any alcohol since approximately August of 2022.
 
 I don't keep track of the exact number of days of sobriety, nor do I celebrate milestones. It doesn't matter how long I've been sober, any day could be the day I decide to throw it all away. Sobriety, for me at least, requires vigilance towards one's surroundings, dispositions, and decisions. That's not to say it hasn't gotten easier. At first it was a manual process, I had to be very careful about the situations I placed myself in and my behavior in those situations. Four or so years in, the process has become pretty automatic. That's not to say I'm not careful, it's just that being careful has become a habit.
+
+<a title="Przemek Pietrak, CC BY-SA 3.0 &lt;https://creativecommons.org/licenses/by-sa/3.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Alcohol_prohibition_sign_in_Prague.jpg"><img width="512" alt="Alcohol prohibition sign in Prague" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Alcohol_prohibition_sign_in_Prague.jpg/512px-Alcohol_prohibition_sign_in_Prague.jpg?20190509181725"></a>
 
 ### The Bigger Picture
 
