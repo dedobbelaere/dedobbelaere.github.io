@@ -24,7 +24,7 @@ Ph.D. Philosophy (expected 2029)
 *A Mereological Middle-Ground: Mind-Dependence and Composite Objects*\
 &nbsp;&nbsp;&nbsp;&nbsp;18th Annual Western Michigan University Graduate Conference
 
-*Comments on Akshan DeAlwis’ “Complexity and Knowledge with and Inferential Etiology”*\
+*Comments on Akshan DeAlwis’ “Complexity and Knowledge with an Inferential Etiology”*\
 &nbsp;&nbsp;&nbsp;&nbsp;2024 University of Rochester Graduate Epistemology Conference
 
 ## Public Philosophy
