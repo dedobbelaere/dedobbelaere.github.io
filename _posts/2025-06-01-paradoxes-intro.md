@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How to Resolve Paradoxes
+date: 2025-06-01
 ---
 
 ***
@@ -8,6 +9,8 @@ title: How to Resolve Paradoxes
 *In today's blog I'm experimenting with doing some public philosophy. I'll be giving a brief introduction into one of my favorite topics in philosophy: paradoxes. In doing so, I'll cover a basic framework for dealing with paradoxes, apply that framework to an instance of a Benardete paradox, and explain how paradoxes have broader philosophical importance than just being fun puzzles.*
 
 ***
+
+<a title="Paradox, Colorado - wooden storefront in 2010" href="https://commons.wikimedia.org/wiki/File:Paradox,_Colorado_-_wooden_storefront_in_2010.jpg"><img width="100%" alt="Paradox, Colorado - wooden storefront in 2010" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Paradox%2C_Colorado_-_wooden_storefront_in_2010.jpg/1024px-Paradox%2C_Colorado_-_wooden_storefront_in_2010.jpg?20211017154808"></a>
 
 Suppose you're about to kick a ball into a soccer goal. Directly in front of the goal, there is a wall, which we'll call $W_1$. Halfway between midfield and $W_1$ is a second wall, 
 $W_2$. Halfway between midfield and $W_2$ is a third wall, $W_3$, and so on *ad infinitum*. Thus for any wall $W_n$, there is a wall $W_{n+1}$, which is halfway between $W_n$ and midfield. Note that this means there are countably infinite walls between the goal and midfield, which get closer and closer together as $n$ increases.
