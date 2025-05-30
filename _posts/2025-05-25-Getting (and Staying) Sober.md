@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Getting (and staying) sober
+title: Getting (and Staying) Sober
 ---
 
 ***
