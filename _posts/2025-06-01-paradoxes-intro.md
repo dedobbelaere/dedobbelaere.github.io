@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Resolve Paradoxes
-date: 2025-06-01
+date: 2025-06-01 06:00:00 -0400
 ---
 
 ***
