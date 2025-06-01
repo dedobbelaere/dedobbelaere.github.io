@@ -68,7 +68,7 @@ The existence of these other setups seems to point us towards the idea that by r
 
 If we accept that the setup to the paradox is logically possible, then we have to say something about what happens when the ball is kicked towards this infinite series of walls. We can't say which wall is the one to stop the ball, so it seems we have to say something else. We might say that in all the possible worlds where the ball is kicked at the wall, some coincidence (the kicker trips, a breeze blows the ball away, etc.) stops the ball from ever reaching midfield, thus avoiding any paradoxical contradictions. We might say that the whole collection of walls *jointly* stops the ball from moving past midfield, without committing to any one particular wall being the one that stops it. There are many different ways one might try to defuse the paradox *without* saying anything about time and space.
 
-If you have a solution, please send it to me! I find that people who are just learning this stuff for the first time often have extremely creative solutions, plus hearing your responses will give me an idea of how well I've taught this material.
+If you have a solution, [please send it to me](mailto:contact@dedobb.xyz)! I find that people who are just learning this stuff for the first time often have extremely creative solutions, plus hearing your responses will give me an idea of how well I've taught this material.
 
 <a title="Anders Sandberg from Oxford, UK, CC BY 2.0 &lt;https://creativecommons.org/licenses/by/2.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Logic_Lane.jpg"><img width="100%" alt="Logic Lane" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Logic_Lane.jpg?20140721204615"></a>
 ### Why Study This?
