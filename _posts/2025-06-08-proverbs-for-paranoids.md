@@ -6,7 +6,7 @@ date: 2025-06-08 10:00:00 -0400
 
 ***
 
-*My original plan for today was to right something about travel, given that I am in Italy for the week. Unfortunately I have been inspired to write about current political events, thereby alienating at least half my audience and placing me in the historically dangerous position of having my political opinions known, in the public forum, to the powers that be. I'll be centering today's discussion around Thomas Pynchon's "Proverbs for Paranoids" which can be found scattered through his 1973 magnum opus* Gravity's Rainbow*. Praise and/or condemnation can be sent, as always via [email](mailto:contact@dedobb.xyz)*
+*My original plan for today was to write something about travel, given that I am in Italy for the week. Unfortunately I have been inspired to write about current political events, thereby alienating at least half my audience and placing me in the historically dangerous position of having my political opinions known, in the public forum, to the powers that be. I'll be centering today's discussion around Thomas Pynchon's "Proverbs for Paranoids" which can be found scattered through his 1973 magnum opus* Gravity's Rainbow*. Praise and/or condemnation can be sent, as always via [email](mailto:contact@dedobb.xyz)*
 
 ***
 
