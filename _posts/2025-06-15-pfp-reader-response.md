@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reader Response - Proverbs for Paranoids
-date: 2025-06-15 10:00:00 -0500
+date: 2025-06-15 10:00:00
 ---
 
 ***
