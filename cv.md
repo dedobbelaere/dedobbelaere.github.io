@@ -33,12 +33,16 @@ Host, *In the Same Vein*, Podcast, "6: On AI in Medicine with Erika Ramsdale, MD
 
 ## Grants and Honors
 
-*UW-Madison* Honors in the Major - Philosophy (2022)  \
+*UW-Madison* Honors in the Major - Philosophy (2022)\
 *UW-Madison* Honors in the Liberal Arts (2022)\
 *UW-Madison* Dean’s List Spring 2022\
 *UW-Madison* UW-Madison Dean’s List Fall 2019
 
 ## Professional Experience
+
+**University of Rochester Medical Center**\
+*Research Assistant, Summer 2025*\
+Performed qualitative coding on interviews with environmental health researchers, with the goal of identifying common ethical issues in environmental health research.
 
 **Epic Systems Corporation**\
 *AI Ethics Analyst, 2022-2023*\
