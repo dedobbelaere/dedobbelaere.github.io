@@ -15,6 +15,7 @@ I've noticed the motto "you can just do things" appearing in assorted forms and 
 Jacob Silverman has an excellent article [here](https://www.jacobsilverman.com/p/you-can-just-do-things) which nicely sums up the ways in which the "you can just do things" mantra is slowly eroding the federal government. I will not be rehearsing these ideas here. My focus instead is to make a case for why you *shouldn't* just do things when acting from a position of authority. I justify this claim on two grounds: (1) just doing things amounts to exercising authority arbitrarily (2) exercising authority arbitrarily does not promote the common good. I'll defend each in turn.
 
 <a title="Joshua Reynolds, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Sir_Joshua_Reynolds_(1723-92)_-_The_Marriage_of_George_III_-_RCIN_404353_-_Royal_Collection.jpg"><img width="100%" alt="&quot;The Marriage of George III&quot;, oil painting by Sir Joshua Reynolds, circa 1761." src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Sir_Joshua_Reynolds_%281723-92%29_-_The_Marriage_of_George_III_-_RCIN_404353_-_Royal_Collection.jpg/1024px-Sir_Joshua_Reynolds_%281723-92%29_-_The_Marriage_of_George_III_-_RCIN_404353_-_Royal_Collection.jpg?20200711194636"></a>
+<small>"The Marriage of George III", oil painting by Sir Joshua Reynolds, circa 1761.</small>
 
 ### Just Doing Things, Arbitrarily
 
@@ -33,6 +34,7 @@ These justifications come across as post-hoc rationalizing of what seems to be t
 In the absence of publicly acceptable justification, we have leaders who can act on their own whims, unaccountable to the forums of public debate. This creates a gap between the people and their government. Leaders, in such a society, don't have to act in accordance with the will of the people, instead they can just do things, they can act arbitrarily, without any need to explain or justify.
 
 <a title="Joseph Nash, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:The_State_Opening_of_Parliament_with_Queen_Victoria.png"><img width="100%" alt="The State Opening of Parliament with Queen Victoria" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/The_State_Opening_of_Parliament_with_Queen_Victoria.png/1024px-The_State_Opening_of_Parliament_with_Queen_Victoria.png?20201123205527"></a>
+<small>"The State Opening of Parliament with Queen Victoria", painting by Joseph Nash, circa 1851.</small>
 
 ### Arbitrary Action and the Common Good
 
