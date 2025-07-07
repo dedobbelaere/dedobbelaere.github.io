@@ -6,7 +6,7 @@ date: 2025-07-06 10:00:00 -0400
 
 ***
 
-*Praise, condemnation, questions, and comments can be sent, as always via [email](mailto:contact@dedobb.xyz)*
+*Praise, condemnation, questions, and comments can be sent, as always, via [email](mailto:contact@dedobb.xyz)*
 
 ***
 
