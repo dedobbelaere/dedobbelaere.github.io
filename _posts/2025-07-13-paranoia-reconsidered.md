@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Paranoia, Reconsidered
-date: 2025-07-13 01:00:00 -0400
+date: 2025-07-13 02:00:00 -0400
 ---
 
 ***
