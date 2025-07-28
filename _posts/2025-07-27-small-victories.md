@@ -6,7 +6,7 @@ date: 2025-07-27 10:00:00 -0400
 
 ***
 
-*Praise, condemnation, questions, and comments can be sent, as always, via [email](mailto:contact@dedobb.xyz)*
+*Praise, condemnation, questions, and comments can be sent via [email](mailto:contact@dedobb.xyz)*
 
 ***
 
@@ -37,4 +37,4 @@ But I'm working on it. I just got a new bike today, and it felt nice to ride it 
 
 ***
 
-*If you liked this post, please [let me know](mailto:contact@dedobb.xyz)! If not, also let me know! Thanks for reading!*
+*Please [let me know](mailto:contact@dedobb.xyz) your thoughts! Thanks for reading!*
