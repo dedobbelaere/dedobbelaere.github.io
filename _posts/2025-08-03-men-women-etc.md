@@ -44,14 +44,14 @@ I do, however, have intuitions. In the past year I have made a concerted effort 
 
 But the view I am currently sympathetic to isn't important. I have changed my mind about gender in the past, and I will almost certainly change it again in the future. I am tempted, here, to moralize, and to urge my readers away from certainty. "Remember the fools who came before you!" I might say, rallying the masses to Socratic ignorance. But such an ending would be corny, and heavy handed. Instead, I'll try to be cryptic and mysterious, and close with some Emily Dickinson:
 
-*Tell all the truth but tell it slant —
-Success in Circuit lies
-Too bright for our infirm Delight
-The Truth's superb surprise
-As Lightning to the Children eased
-With explanation kind
-The Truth must dazzle gradually
-Or every man be blind —*
+*Tell all the truth but tell it slant —<br>
+Success in Circuit lies<br>
+Too bright for our infirm Delight<br>
+The Truth's superb surprise<br>
+As Lightning to the Children eased<br>
+With explanation kind<br>
+The Truth must dazzle gradually<br>
+Or every man be blind —*<br>
 
 ***
 
