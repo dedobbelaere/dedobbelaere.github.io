@@ -28,6 +28,7 @@ Ph.D. Philosophy (expected 2029)
 &nbsp;&nbsp;&nbsp;&nbsp;2024 University of Rochester Graduate Epistemology Conference
 
 ## Public Philosophy
+
 Host, *In the Same Vein*, Podcast, "6: On AI in Medicine with Erika Ramsdale, MD"
 <iframe style="border-radius:12px; margin-bottom:-3rem" src="https://open.spotify.com/embed/episode/7KBSNOnbv5C2CsOe0bjZnI?utm_source=generator" width="100%" height="150" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -37,6 +38,10 @@ Host, *In the Same Vein*, Podcast, "6: On AI in Medicine with Erika Ramsdale, MD
 *UW-Madison* Honors in the Liberal Arts (2022)\
 *UW-Madison* Dean’s List Spring 2022\
 *UW-Madison* UW-Madison Dean’s List Fall 2019
+
+## Teaching
+
+Environmental Justice, University of Rochester, Fall 2025 (Teaching Assistant)
 
 ## Professional Experience
 
