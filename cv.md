@@ -27,6 +27,11 @@ Ph.D. Philosophy (expected 2029)
 *Comments on Akshan DeAlwis’ “Complexity and Knowledge with an Inferential Etiology”*\
 &nbsp;&nbsp;&nbsp;&nbsp;2024 University of Rochester Graduate Epistemology Conference
 
+## Teaching
+
+Environmental Justice, University of Rochester, Fall 2025 (Teaching Assistant)
+Early Modern Philosophy, University of Rochester, Fall 2025 (Visiting Lecture on Spinoza's metaphysics)
+
 ## Public Philosophy
 
 Host, *In the Same Vein*, Podcast, "6: On AI in Medicine with Erika Ramsdale, MD"
@@ -38,10 +43,6 @@ Host, *In the Same Vein*, Podcast, "6: On AI in Medicine with Erika Ramsdale, MD
 *UW-Madison* Honors in the Liberal Arts (2022)\
 *UW-Madison* Dean’s List Spring 2022\
 *UW-Madison* UW-Madison Dean’s List Fall 2019
-
-## Teaching
-
-Environmental Justice, University of Rochester, Fall 2025 (Teaching Assistant)
 
 ## Professional Experience
 
