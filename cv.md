@@ -21,16 +21,20 @@ Ph.D. Philosophy (expected 2029)
 
 ## Talks and Comments
 
+*Dodging the Question: Non-Solutions to Benardete Paradoxes*\
+&nbsp;&nbsp;&nbsp;&nbsp; 2025 Dr. Michael Gelven Graduate Philosophy Conference (*Northern Illinois University*, 2025)
+&nbsp;&nbsp;&nbsp;&nbsp; 2025 Illinois Philosophical Association Annual Conference
+
 *A Mereological Middle-Ground: Mind-Dependence and Composite Objects*\
-&nbsp;&nbsp;&nbsp;&nbsp;18th Annual Western Michigan University Graduate Conference
+&nbsp;&nbsp;&nbsp;&nbsp; 18th Annual Western Michigan University Graduate Conference (2025)
 
 *Comments on Akshan DeAlwis’ “Complexity and Knowledge with an Inferential Etiology”*\
-&nbsp;&nbsp;&nbsp;&nbsp;2024 University of Rochester Graduate Epistemology Conference
+&nbsp;&nbsp;&nbsp;&nbsp; 2024 University of Rochester Graduate Epistemology Conference
 
 ## Teaching
 
 Environmental Justice, University of Rochester, Fall 2025 (Teaching Assistant)
-Early Modern Philosophy, University of Rochester, Fall 2025 (Visiting Lecture on Spinoza's metaphysics)
+Early Modern Philosophy, University of Rochester, Fall 2025 (Guest lecture on Spinoza's metaphysics)
 
 ## Public Philosophy
 
