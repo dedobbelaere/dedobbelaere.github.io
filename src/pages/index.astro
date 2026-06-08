@@ -1,34 +1,17 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
-import { getCollection, render } from 'astro:content';
-
-const allPosts = await getCollection('blog');
-const posts = await Promise.all(
-	allPosts
-		.sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
-		.map(async (post) => {
-			const { Content } = await render(post);
-			return { ...post, Content };
-		})
-);
+import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
 ---
 
 <BaseLayout title="Home">
-	<div class="posts">
-		{
-			posts.map((post) => (
-				<div class="post">
-					<h1 class="post-title">
-						<a href={`/blog/${post.id}/`}>
-							{post.data.title}
-						</a>
-					</h1>
-
-					<span class="post-date">{post.data.date.toDateString()}</span>
-
-					<post.Content />
-				</div>
-			))
-		}
+	<div class="post">
+		<h1 class="post-title">Welcome</h1>
+		<p class="lead">{SITE_DESCRIPTION}</p>
+		<p>
+			Welcome to my personal website. I am a philosopher at the University of Rochester.
+		</p>
+		<p>
+			You can find my latest thoughts and essays in the <a href="/blog">Blogs</a> section.
+		</p>
 	</div>
 </BaseLayout>
