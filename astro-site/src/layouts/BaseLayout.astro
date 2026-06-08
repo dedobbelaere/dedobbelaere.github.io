@@ -1,0 +1,33 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Sidebar from '../components/Sidebar.astro';
+import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+
+interface Props {
+	title?: string;
+	description?: string;
+	headerTitle?: string;
+}
+
+// When used as a layout for markdown, Astro passes frontmatter in Astro.props.frontmatter
+// or directly in Astro.props depending on version/config. 
+// In latest Astro, it's usually directly in Astro.props.
+const { title, description = SITE_DESCRIPTION, headerTitle } = Astro.props;
+
+// Determine what to show in the Monet header
+const displayTitle = headerTitle || title;
+// We don't want "Home" to be the header if we're on the homepage, 
+// but index.astro will explicitly pass headerTitle="Welcome".
+---
+
+<!doctype html>
+<html lang="en-us">
+	<BaseHead title={title || SITE_TITLE} description={description} />
+	<body class="theme-base-de">
+		<Sidebar />
+		<div class="content container">
+			{displayTitle && <h1 class="post-title">{displayTitle}</h1>}
+			<slot />
+		</div>
+	</body>
+</html>

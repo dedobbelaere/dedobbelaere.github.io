@@ -15,9 +15,9 @@ const post = Astro.props;
 const { Content } = await render(post);
 ---
 
-<BaseLayout title={post.data.title}>
+<BaseLayout title={post.data.title} headerTitle={post.data.title}>
 	<div class="post">
-		<h1 class="post-title">{post.data.title}</h1>
 		<span class="post-date">{post.data.date.toDateString()}</span>
+		<Content />
 	</div>
 </BaseLayout>
