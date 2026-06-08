@@ -8,18 +8,50 @@ const posts = (await getCollection('blog')).sort(
 ---
 
 <BaseLayout title="Blogs">
-	<div class="posts">
+	<style>
+		.blog-list {
+			list-style: none;
+			padding: 0;
+			margin: 2rem 0;
+		}
+		.blog-item {
+			margin-bottom: 2rem;
+			border-bottom: 1px solid #eee;
+			padding-bottom: 1rem;
+		}
+		.blog-item:last-child {
+			border-bottom: none;
+		}
+		.blog-title-link {
+			font-size: 1.5rem;
+			font-weight: bold;
+			color: #313131;
+			text-decoration: none;
+			display: block;
+			margin-bottom: 0.25rem;
+			line-height: 1.2;
+		}
+		.blog-title-link:hover {
+			color: #23779b;
+			text-decoration: underline;
+		}
+		.blog-list-date {
+			font-size: 0.9rem;
+			color: #9a9a9a;
+			display: block;
+		}
+	</style>
+
+	<ul class="blog-list">
 		{
 			posts.map((post) => (
-				<div class="post">
-					<h1 class="post-title" style="background-image: none; padding-top: 0;">
-						<a href={`/blog/${post.id}/`} style="color: #313131;">
-							{post.data.title}
-						</a>
-					</h1>
-					<span class="post-date">{post.data.date.toDateString()}</span>
-				</div>
+				<li class="blog-item">
+					<a href={`/blog/${post.id}/`} class="blog-title-link">
+						{post.data.title}
+					</a>
+					<span class="blog-list-date">{post.data.date.toDateString()}</span>
+				</li>
 			))
 		}
-	</div>
+	</ul>
 </BaseLayout>

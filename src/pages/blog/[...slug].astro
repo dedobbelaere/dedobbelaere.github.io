@@ -16,8 +16,6 @@ const { Content } = await render(post);
 ---
 
 <BaseLayout title={post.data.title} headerTitle={post.data.title}>
-	<div class="post">
-		<span class="post-date">{post.data.date.toDateString()}</span>
-		<Content />
-	</div>
+	<span class="post-date">{post.data.date.toDateString()}</span>
+	<Content />
 </BaseLayout>

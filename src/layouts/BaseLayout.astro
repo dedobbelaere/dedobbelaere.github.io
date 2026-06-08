@@ -6,18 +6,32 @@ import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
 interface Props {
 	title?: string;
 	description?: string;
+	headerTitle?: string;
+	frontmatter?: any;
 }
 
-const { title = SITE_TITLE, description = SITE_DESCRIPTION } = Astro.props;
+const { title, description, headerTitle, frontmatter } = Astro.props;
+
+// For Markdown files using this layout, props are in 'frontmatter'
+// For Astro components, they are in direct props
+const finalTitle = title || frontmatter?.title || SITE_TITLE;
+const finalDescription = description || frontmatter?.description || SITE_DESCRIPTION;
+const finalHeaderTitle = headerTitle || frontmatter?.headerTitle || (frontmatter?.title) || (title && title !== "Home" ? title : null);
+
+// Special case for Homepage: we want "Welcome" as the header
+const displayHeader = (finalTitle === "Home" || Astro.url.pathname === "/") ? "Welcome" : finalHeaderTitle;
 ---
 
 <!doctype html>
 <html lang="en-us">
-	<BaseHead title={title} description={description} />
+	<BaseHead title={finalTitle} description={finalDescription} />
 	<body class="theme-base-de">
 		<Sidebar />
 		<div class="content container">
-			<slot />
+			<div class="post">
+				{displayHeader && <h1 class="post-title">{displayHeader}</h1>}
+				<slot />
+			</div>
 		</div>
 	</body>
 </html>
