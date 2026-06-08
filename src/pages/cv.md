@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: ../layouts/BaseLayout.astro
 title: Curriculum Vitae
 ---
 ***
