@@ -12,12 +12,11 @@ const posts = (await getCollection('blog')).sort(
 		{
 			posts.map((post) => (
 				<div class="post">
-					<h1 class="post-title">
-						<a href={`/blog/${post.id}/`}>
+					<h1 class="post-title" style="background-image: none; padding-top: 0;">
+						<a href={`/blog/${post.id}/`} style="color: #313131;">
 							{post.data.title}
 						</a>
 					</h1>
-
 					<span class="post-date">{post.data.date.toDateString()}</span>
 				</div>
 			))
