@@ -28,7 +28,7 @@ Thesis: "Contingency in Spinoza’s *Ethics*: A Defense of the Strict Necessitar
 *A Mereological Middle-Ground: Mind-Dependence and Composite Objects*\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 18th Annual Western Michigan University Graduate Conference (2025)
 
-*Comments on Akshan DeAlwis’ “Complexity and Knowledge with an Inferential Etiology”*\
+*Comments on Akshan DeAlwis’s “Complexity and Knowledge with an Inferential Etiology”*\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  2024 University of Rochester Graduate Epistemology Conference
 
 ## Teaching
@@ -53,7 +53,8 @@ Host, *In the Same Vein*, Podcast\
 ## Experience
 
 **University of Rochester Medical Center**\
-*Research Assistant, Department of Health Humanities and Bioethics, Summer 2026*\
+*Research Assistant*\
+*Department of Health Humanities and Bioethics, Summer 2026*\
 Curently working on projects related to regulation of AI in healthcare and how medical AI affects informed consent.
 
 **Center for Policy and Animal Welfare**\
@@ -61,7 +62,8 @@ Curently working on projects related to regulation of AI in healthcare and how m
 Currently assisting with public comments on proposed rule changes that bear on issues of animal welfare.
 
 **University of Rochester Medical Center**\
-*Research Assistant, Environmental Health, Summer 2025*\
+*Research Assistant*\
+*Environmental Health, Summer 2025*\
 Performed qualitative coding on interviews with environmental health researchers, with the goal of identifying common ethical issues in environmental health research.
 
 **Epic Systems Corporation**\
