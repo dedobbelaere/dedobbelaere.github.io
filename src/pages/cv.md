@@ -39,7 +39,8 @@ Early Modern Philosophy, University of Rochester, Fall 2025 (Guest lecture on Sp
 
 ## Public Philosophy
 
-Host, *In the Same Vein*, Podcast, "6: On AI in Medicine with Erika Ramsdale, MD"
+Host, *In the Same Vein*, Podcast\ 
+"6: On AI in Medicine with Erika Ramsdale, MD"\
 <iframe style="border-radius:12px; margin-bottom:-3rem" src="https://open.spotify.com/embed/episode/7KBSNOnbv5C2CsOe0bjZnI?utm_source=generator" width="100%" height="150" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ## Grants and Honors
