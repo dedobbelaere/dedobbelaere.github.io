@@ -10,29 +10,30 @@ This is my academic CV. My corporate experience can be found [here](https://www.
 
 ## Education
 
+**University of Rochester** Rochester, NY\
+*School of Arts & Sciences*\
+Ph.D. Philosophy (expected 2029)
+
 **University of Wisconsin-Madison** Madison, WI\
 *College of Letters & Science Honors*\
 B.A. Philosophy with Comprehensive Honors (2022)\
 Thesis: "Contingency in Spinoza’s *Ethics*: A Defense of the Strict Necessitarian Interpretation"
 
-**University of Rochester** Rochester, NY\
-*School of Arts & Sciences*\
-Ph.D. Philosophy (expected 2029)
-
 ## Talks and Comments
 
 *Dodging the Question: Non-Solutions to Benardete Paradoxes*\
-&nbsp;&nbsp;&nbsp;&nbsp; 2025 Dr. Michael Gelven Graduate Philosophy Conference (*Northern Illinois University*, 2025)
-&nbsp;&nbsp;&nbsp;&nbsp; 2025 Illinois Philosophical Association Annual Conference
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2025 Dr. Michael Gelven Graduate Philosophy Conference\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2025 Illinois Philosophical Association Annual Conference
 
 *A Mereological Middle-Ground: Mind-Dependence and Composite Objects*\
-&nbsp;&nbsp;&nbsp;&nbsp; 18th Annual Western Michigan University Graduate Conference (2025)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 18th Annual Western Michigan University Graduate Conference (2025)
 
 *Comments on Akshan DeAlwis’ “Complexity and Knowledge with an Inferential Etiology”*\
-&nbsp;&nbsp;&nbsp;&nbsp; 2024 University of Rochester Graduate Epistemology Conference
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  2024 University of Rochester Graduate Epistemology Conference
 
 ## Teaching
 
+Data, Algorithms, and Justice, University of Rochester, Spring 2026 (Teaching Assistant)
 Environmental Justice, University of Rochester, Fall 2025 (Teaching Assistant)
 Early Modern Philosophy, University of Rochester, Fall 2025 (Guest lecture on Spinoza's metaphysics)
 
@@ -48,10 +49,18 @@ Host, *In the Same Vein*, Podcast, "6: On AI in Medicine with Erika Ramsdale, MD
 *UW-Madison* Dean’s List Spring 2022\
 *UW-Madison* UW-Madison Dean’s List Fall 2019
 
-## Professional Experience
+## Experience
 
 **University of Rochester Medical Center**\
-*Research Assistant, Summer 2025*\
+*Research Assistant, Department of Health Humanities and Bioethics, Summer 2026*\
+Curently working on projects related to regulation of AI in healthcare and how medical AI affects informed consent.
+
+**Center for Policy and Animal Welfare**\
+*Policy Analyst, Summer 2026*\
+Currently assisting with public comments on proposed rule changes that bear on issues of animal welfare.
+
+**University of Rochester Medical Center**\
+*Research Assistant, Environmental Health, Summer 2025*\
 Performed qualitative coding on interviews with environmental health researchers, with the goal of identifying common ethical issues in environmental health research.
 
 **Epic Systems Corporation**\
