@@ -33,23 +33,17 @@ Thesis: "Contingency in Spinoza’s *Ethics*: A Defense of the Strict Necessitar
 
 ## Teaching
 
-Data, Algorithms, and Justice, University of Rochester, Spring 2026 (Teaching Assistant)<br />
-Environmental Justice, University of Rochester, Fall 2025 (Teaching Assistant)<br />
-Early Modern Philosophy, University of Rochester, Fall 2025 (Guest lecture on Spinoza's metaphysics)
+**Data, Algorithms, and Justice**<br />
+University of Rochester, Spring 2026 <br />
+Teaching Assistant
 
-## Public Philosophy
+**Environmental Justice**<br />
+*University of Rochester, Fall 2025*<br />
+Teaching Assistant
 
-Host, *In the Same Vein*, Podcast<br />
-"6: On AI in Medicine with Erika Ramsdale, MD"<br />
-
-<iframe style="border-radius:12px; margin-bottom:-3rem" src="https://open.spotify.com/embed/episode/7KBSNOnbv5C2CsOe0bjZnI?utm_source=generator" width="100%" height="150" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-## Grants and Honors
-
-*UW-Madison* Honors in the Major - Philosophy (2022)\
-*UW-Madison* Honors in the Liberal Arts (2022)\
-*UW-Madison* Dean’s List Spring 2022\
-*UW-Madison* UW-Madison Dean’s List Fall 2019
+**Early Modern Philosophy**<br />
+*University of Rochester, Fall 2025*<br />
+Guest lecture on Spinoza's metaphysics
 
 ## Experience
 
@@ -70,6 +64,20 @@ Performed qualitative coding on interviews with environmental health researchers
 **Epic Systems Corporation**\
 *AI Ethics Analyst, 2022-2023*\
 I worked with programmers and quality assurance analysts to investigate ethical issues in artificial intelligence and machine learning projects. Large language models, risk scores, and predictive models were evaluated for cohort bias, automation bias, and patient safety risks. When ethical problems were identified, I would propose changes to remove or mitigate ethical issues in the design of the product, in its implementation, and in user training.
+
+## Public Philosophy
+
+Host, *In the Same Vein*, Podcast<br />
+"6: On AI in Medicine with Erika Ramsdale, MD"<br />
+
+<iframe style="border-radius:12px; margin-bottom:-3rem" src="https://open.spotify.com/embed/episode/7KBSNOnbv5C2CsOe0bjZnI?utm_source=generator" width="100%" height="150" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+## Grants and Honors
+
+*UW-Madison* Honors in the Major - Philosophy (2022)\
+*UW-Madison* Honors in the Liberal Arts (2022)\
+*UW-Madison* Dean’s List Spring 2022\
+*UW-Madison* UW-Madison Dean’s List Fall 2019
 
 ## Service
 
