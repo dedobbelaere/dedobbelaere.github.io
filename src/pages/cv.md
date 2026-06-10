@@ -76,10 +76,13 @@ Host, *In the Same Vein*, Podcast<br />
 
 *UW-Madison* Honors in the Major - Philosophy (2022)\
 *UW-Madison* Honors in the Liberal Arts (2022)\
-*UW-Madison* Dean’s List Spring 2022\
-*UW-Madison* UW-Madison Dean’s List Fall 2019
+Receiving both Honors in the Major and Honors in the Liberal Arts conferred the Comprehensive Honors distinction on my degree.
 
 ## Service
+
+**University of Rochester, Department of Philosophy**\
+*Graduate Student Representative, 2026-2027*\
+I serve as a liaison between the graduate students of the department of philosophy and the faculty and administration of the university.
 
 **Sifting & Winnowing Foundation**\
 *Board Member & Public Relations Director, 2019-2022*\
