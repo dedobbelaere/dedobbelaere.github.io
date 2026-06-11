@@ -8,22 +8,24 @@ interface Props {
 	description?: string;
 	headerTitle?: string;
 	frontmatter?: any;
+	publishDate?: Date;
 }
 
-const { title, description, headerTitle, frontmatter } = Astro.props;
+const { title, description, headerTitle, frontmatter, publishDate } = Astro.props;
 
 // For Markdown files using this layout, props are in 'frontmatter'
 // For Astro components, they are in direct props
 const finalTitle = title || frontmatter?.title || SITE_TITLE;
 const finalDescription = description || frontmatter?.description || SITE_DESCRIPTION;
 const finalHeaderTitle = headerTitle || frontmatter?.headerTitle || (frontmatter?.title) || (title && title !== "Home" ? title : null);
+const finalPublishDate = publishDate || frontmatter?.date;
 
 const displayHeader = finalHeaderTitle;
 ---
 
 <!doctype html>
 <html lang="en-us">
-	<BaseHead title={finalTitle} description={finalDescription} />
+	<BaseHead title={finalTitle} description={finalDescription} publishDate={finalPublishDate} />
 	<body class="theme-base-de">
 		<Sidebar />
 		<div class="content container">
