@@ -348,7 +348,7 @@ tbody tr:nth-child(odd) th {
 .page-heading {
   margin-top: 0;
   color: #fff;
-  padding-top: 4rem;
+  padding-top: 4.5rem; /* Nudged down from 4rem */
   padding-bottom: 1.5rem; /* Add space between text and bottom of image */
   margin-bottom: 2rem; /* Add space between header image and body copy */
   margin-left: -1rem; /* Full width on mobile */
