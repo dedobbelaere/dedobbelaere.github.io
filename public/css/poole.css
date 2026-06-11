@@ -350,10 +350,9 @@ tbody tr:nth-child(odd) th {
   margin-top: 0;
   color: #fff;
   padding-top: 4rem;
-  padding-left: 0.5rem;
   margin-left: -1rem; /* Full width on mobile */
   margin-right: -1rem;
-  padding-left: 1.5rem; /* Re-align text */
+  padding-left: 1rem; /* Align text with body (container padding is 1rem) */
   background-image: url(water-lillies-monet.png);
   background-size: cover;
   /* This creates a solid color "cushion" above the image for overscroll */
@@ -364,9 +363,10 @@ tbody tr:nth-child(odd) th {
   .post-title,
   .page-title,
   .page-heading {
-    margin-left: 0;
-    margin-right: 0;
-    padding-left: 0.5rem;
+    margin-left: -2rem; /* Hit the sidebar (content margin-left is 20rem, sidebar width is 18rem) */
+    margin-right: -100vw; /* Extend to the right edge */
+    padding-right: 100vw; /* Counteract to keep content clickable/visible? No, just for the background. */
+    padding-left: 2rem; /* Align with content (which starts at 20rem, but we shifted by -2rem) */
   }
 }
 

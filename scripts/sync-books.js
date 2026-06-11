@@ -90,7 +90,13 @@ async function main() {
 
     let description = entry.match(/<content[\s\S]*?>([\s\S]*?)<\/content>/)?.[1] || 
                       entry.match(/<summary[\s\S]*?>([\s\S]*?)<\/summary>/)?.[1] || "";
-    description = decode(description).replace(/<[^>]*>?/gm, '').trim(); // Strip HTML tags for simplicity if needed, or keep them if we trust the source. Let's strip for a clean "infobox" unless the user wants HTML.
+    description = decode(description).replace(/<[^>]*>?/gm, '').trim();
+    
+    // Strip "Tags: ..." or similar if it exists at the end of the description
+    const tagsIndex = description.lastIndexOf('Tags:');
+    if (tagsIndex !== -1) {
+      description = description.substring(0, tagsIndex).trim();
+    }
     
     // Find the link with the image rel
     const linkMatches = [...entry.matchAll(/<link([\s\S]*?)\/?>/g)];
