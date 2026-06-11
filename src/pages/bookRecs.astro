@@ -6,6 +6,10 @@ const title = "Book Recommendations";
 ---
 
 <BaseLayout title={title}>
+<p>
+     Below is a periodically updated, non-exhaustive list of books I've thoroughly enjoyed. You can click on any cover to see a summary of the book, mostly plundered from publisher descriptions, and lightly edited for concision where appropriate.
+</p>
+
 	<div class="book-grid">
 		{books.map((book) => (
 			<div class="book-item" data-title={book.title} data-authors={book.authors.join(', ')} data-description={book.description} data-cover={book.cover}>
