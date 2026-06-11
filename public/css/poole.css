@@ -363,10 +363,10 @@ tbody tr:nth-child(odd) th {
   .post-title,
   .page-title,
   .page-heading {
-    margin-left: -2rem; /* Hit the sidebar (content margin-left is 20rem, sidebar width is 18rem) */
-    margin-right: -100vw; /* Extend to the right edge */
+    margin-left: -3rem; /* content margin-left 20rem + container padding 1rem = 21rem. Sidebar is 18rem. So -3rem. */
+    margin-right: -100vw;
     padding-right: 100vw;
-    padding-left: 3rem; /* Align text with body text (18rem start + 3rem padding = 21rem) */
+    padding-left: 3rem; /* Counteract margin-left to align text with body (at 21rem) */
   }
 }
 
@@ -374,8 +374,8 @@ tbody tr:nth-child(odd) th {
   .post-title,
   .page-title,
   .page-heading {
-    margin-left: -4rem; /* content margin-left is 22rem, sidebar width is 18rem */
-    padding-left: 5rem; /* Align text with body text (18rem start + 5rem padding = 23rem) */
+    margin-left: -5rem; /* content margin-left 22rem + container padding 1rem = 23rem. Sidebar is 18rem. So -5rem. */
+    padding-left: 5rem; /* Counteract margin-left to align text with body (at 23rem) */
   }
 }
 
