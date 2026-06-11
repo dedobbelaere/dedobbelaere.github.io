@@ -22,19 +22,19 @@ Thesis: "Contingency in Spinoza’s *Ethics*: A Defense of the Strict Necessitar
 ## Talks and Comments
 
 *Dodging the Question: Non-Solutions to Benardete Paradoxes*\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2025 Dr. Michael Gelven Graduate Philosophy Conference\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2025 Illinois Philosophical Association Annual Conference
+\- 2025 Dr. Michael Gelven Graduate Philosophy Conference\
+\- 2025 Illinois Philosophical Association Annual Conference
 
 *A Mereological Middle-Ground: Mind-Dependence and Composite Objects*\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 18th Annual Western Michigan University Graduate Conference (2025)
+\- 18th Annual Western Michigan University Graduate Conference (2025)
 
 *Comments on Akshan DeAlwis’s “Complexity and Knowledge with an Inferential Etiology”*\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  2024 University of Rochester Graduate Epistemology Conference
+\-  2024 University of Rochester Graduate Epistemology Conference
 
 ## Teaching
 
 **Data, Algorithms, and Justice**<br />
-University of Rochester, Spring 2026 <br />
+*University of Rochester, Spring 2026*<br />
 Teaching Assistant
 
 **Environmental Justice**<br />
