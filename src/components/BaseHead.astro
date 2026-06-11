@@ -6,7 +6,7 @@ interface Props {
 	publishDate?: Date;
 }
 
-const { title, description, image = '/css/monet-sidebar.png', publishDate } = Astro.props;
+const { title, description, image = '/css/monet-pourville.jpg', publishDate } = Astro.props;
 const siteUrl = Astro.site || 'https://dedobb.xyz';
 const imageUrl = new URL(image, siteUrl).href;
 
