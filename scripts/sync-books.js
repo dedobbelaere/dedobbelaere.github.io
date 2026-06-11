@@ -87,6 +87,10 @@ async function main() {
 
     if (title) title = decode(title);
     authors = authors.map(decode);
+
+    let description = entry.match(/<content[\s\S]*?>([\s\S]*?)<\/content>/)?.[1] || 
+                      entry.match(/<summary[\s\S]*?>([\s\S]*?)<\/summary>/)?.[1] || "";
+    description = decode(description).replace(/<[^>]*>?/gm, '').trim(); // Strip HTML tags for simplicity if needed, or keep them if we trust the source. Let's strip for a clean "infobox" unless the user wants HTML.
     
     // Find the link with the image rel
     const linkMatches = [...entry.matchAll(/<link([\s\S]*?)\/?>/g)];
@@ -101,6 +105,7 @@ async function main() {
         title,
         authors,
         author: authors[0], // Primary author for sorting
+        description,
         coverUrl: coverUrl.startsWith('http') ? coverUrl : origin + coverUrl
       });
     }
@@ -142,6 +147,7 @@ async function main() {
     processedBooks.push({
       title: book.title,
       authors: book.authors,
+      description: book.description,
       cover: localCoverPath,
       authorSort: getAuthorSortName(book.author)
     });

@@ -8,7 +8,7 @@ const title = "Book Recommendations";
 <BaseLayout title={title}>
 	<div class="book-grid">
 		{books.map((book) => (
-			<div class="book-item">
+			<div class="book-item" data-title={book.title} data-authors={book.authors.join(', ')} data-description={book.description} data-cover={book.cover}>
 				<img src={book.cover} alt={book.title} class="book-cover" />
 				<div class="book-info">
 					<h3 class="book-title">{book.title}</h3>
@@ -17,7 +17,60 @@ const title = "Book Recommendations";
 			</div>
 		))}
 	</div>
+
+	<div id="book-modal" class="modal">
+		<div class="modal-content">
+			<span class="close-button">&times;</span>
+			<div class="modal-body">
+				<img id="modal-cover" src="" alt="" class="modal-cover-img" />
+				<div class="modal-text">
+					<h2 id="modal-title"></h2>
+					<p id="modal-authors" class="modal-author"></p>
+					<hr />
+					<div id="modal-description" class="modal-description"></div>
+				</div>
+			</div>
+		</div>
+	</div>
 </BaseLayout>
+
+<script>
+	const modal = document.getElementById('book-modal');
+	const modalTitle = document.getElementById('modal-title');
+	const modalAuthors = document.getElementById('modal-authors');
+	const modalDescription = document.getElementById('modal-description');
+	const modalCover = document.getElementById('modal-cover');
+	const closeButton = document.querySelector('.close-button');
+
+	document.querySelectorAll('.book-item').forEach(item => {
+		item.addEventListener('click', () => {
+			const { title, authors, description, cover } = (item as HTMLElement).dataset;
+			
+			if (modalTitle) modalTitle.textContent = title || '';
+			if (modalAuthors) modalAuthors.textContent = authors || '';
+			if (modalDescription) modalDescription.textContent = description || 'No description available.';
+			if (modalCover) (modalCover as HTMLImageElement).src = cover || '';
+			if (modalCover) (modalCover as HTMLImageElement).alt = title || '';
+			
+			if (modal) modal.style.display = 'block';
+			document.body.style.overflow = 'hidden'; // Prevent scrolling
+		});
+	});
+
+	if (closeButton) {
+		closeButton.addEventListener('click', () => {
+			if (modal) modal.style.display = 'none';
+			document.body.style.overflow = 'auto';
+		});
+	}
+
+	window.addEventListener('click', (event) => {
+		if (event.target === modal) {
+			if (modal) modal.style.display = 'none';
+			document.body.style.overflow = 'auto';
+		}
+	});
+</script>
 
 <style>
 	.book-grid {
@@ -37,6 +90,7 @@ const title = "Book Recommendations";
 		display: flex;
 		flex-direction: column;
 		min-width: 0; /* Prevents overflow in grid items */
+		cursor: pointer;
 	}
 
 	.book-cover {
@@ -73,5 +127,104 @@ const title = "Book Recommendations";
 		color: #666;
 		margin: 0;
 		line-height: 1.3;
+	}
+
+	/* Modal Styles */
+	.modal {
+		display: none;
+		position: fixed;
+		z-index: 1000;
+		left: 0;
+		top: 0;
+		width: 100%;
+		height: 100%;
+		overflow: auto;
+		background-color: rgba(0,0,0,0.6);
+		backdrop-filter: blur(4px);
+	}
+
+	.modal-content {
+		background-color: #fefefe;
+		margin: 5% auto;
+		padding: 2rem;
+		border: 1px solid #888;
+		width: 90%;
+		max-width: 700px;
+		border-radius: 8px;
+		position: relative;
+		box-shadow: 0 10px 25px rgba(0,0,0,0.3);
+	}
+
+	.close-button {
+		color: #aaa;
+		position: absolute;
+		top: 10px;
+		right: 20px;
+		font-size: 28px;
+		font-weight: bold;
+		cursor: pointer;
+	}
+
+	.close-button:hover,
+	.close-button:focus {
+		color: #000;
+		text-decoration: none;
+	}
+
+	.modal-body {
+		display: flex;
+		flex-direction: column;
+		gap: 2rem;
+	}
+
+	@media (min-width: 600px) {
+		.modal-body {
+			flex-direction: row;
+		}
+	}
+
+	.modal-cover-img {
+		width: 100%;
+		max-width: 200px;
+		height: auto;
+		aspect-ratio: 2 / 3;
+		object-fit: cover;
+		border-radius: 4px;
+		box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+		align-self: center;
+	}
+
+	@media (min-width: 600px) {
+		.modal-cover-img {
+			align-self: flex-start;
+		}
+	}
+
+	.modal-text {
+		flex: 1;
+	}
+
+	#modal-title {
+		margin-top: 0;
+		margin-bottom: 0.5rem;
+		font-size: 1.5rem;
+	}
+
+	.modal-author {
+		font-style: italic;
+		color: #666;
+		margin-bottom: 1rem;
+	}
+
+	.modal-description {
+		line-height: 1.6;
+		font-size: 0.95rem;
+		color: #444;
+	}
+
+	hr {
+		border: 0;
+		border-top: 1px solid #eee;
+		margin: 1rem 0;
 	}
 </style>
