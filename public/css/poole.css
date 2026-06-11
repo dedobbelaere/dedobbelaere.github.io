@@ -342,22 +342,40 @@ tbody tr:nth-child(odd) th {
   margin-bottom: 4em;
 }
 
-.post-title {
+.post-title,
+.page-title,
+.page-heading {
+  position: relative;
   margin-top: 0;
   color: #fff;
   padding-top: 4rem;
-  background-image: url(water-lillies-monet.png);
-  background-position: left 0% bottom 0%;
   padding-left: 0.5rem;
 }
 
-.page-title {
-  margin-top: 0;
-  color: #fff;
-  padding-top: 4rem;
+.post-title::before,
+.page-title::before,
+.page-heading::before {
+  content: "";
+  position: absolute;
+  top: -100vh;
+  left: 0;
+  right: 0;
+  bottom: 0;
   background-image: url(water-lillies-monet.png);
+  background-size: cover;
+  z-index: -1;
+}
+
+.post-title::before {
+  background-position: left 0% bottom 0%;
+}
+
+.page-title::before {
   background-position: bottom;
-  padding-left: 0.5rem;
+}
+
+.page-heading::before {
+  background-position: left;
 }
 
 /* Blog post or page title */
@@ -365,15 +383,6 @@ tbody tr:nth-child(odd) th {
 .post-title a {
   color: #fff;
   margin-top: 0;
-}
-
-.page-heading {
-  margin-top: 0;
-  color: #fff;
-  padding-top: 4rem;
-  background-image: url(water-lillies-monet.png);
-  background-position: left;
-  padding-left: 0.5rem;
 }
 
 /* Meta data line below post title */
