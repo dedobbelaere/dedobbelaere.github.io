@@ -73,9 +73,20 @@ async function main() {
   const urlObj = new URL(configUrl);
   const origin = urlObj.origin;
   for (const entry of entries) {
-    const title = entry.match(/<title>([\s\S]*?)<\/title>/)?.[1];
+    let title = entry.match(/<title>([\s\S]*?)<\/title>/)?.[1];
     const authorMatches = [...entry.matchAll(/<author>[\s\S]*?<name>([\s\S]*?)<\/name>[\s\S]*?<\/author>/g)];
-    const authors = authorMatches.map(m => m[1]);
+    let authors = authorMatches.map(m => m[1]);
+
+    // Decode simple HTML entities
+    const decode = (str) => str.replace(/&#(\d+);/g, (match, dec) => String.fromCharCode(dec))
+                               .replace(/&quot;/g, '"')
+                               .replace(/&apos;/g, "'")
+                               .replace(/&amp;/g, '&')
+                               .replace(/&lt;/g, '<')
+                               .replace(/&gt;/g, '>');
+
+    if (title) title = decode(title);
+    authors = authors.map(decode);
     
     // Find the link with the image rel
     const linkMatches = [...entry.matchAll(/<link([\s\S]*?)\/?>/g)];

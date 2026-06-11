@@ -22,7 +22,7 @@ const title = "Book Recs";
 <style>
 	.book-grid {
 		display: grid;
-		grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+		grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
 		gap: 2rem;
 		margin-top: 2rem;
 	}
@@ -36,8 +36,7 @@ const title = "Book Recs";
 	.book-item {
 		display: flex;
 		flex-direction: column;
-		align-items: flex-start;
-		text-align: left;
+		min-width: 0; /* Prevents overflow in grid items */
 	}
 
 	.book-cover {
@@ -48,7 +47,8 @@ const title = "Book Recs";
 		transition: transform 0.2s;
 		border-radius: 4px;
 		margin-bottom: 0.75rem;
-		background-color: #f0f0f0; /* Placeholder while loading */
+		background-color: #f0f0f0;
+		display: block; /* Removes bottom whitespace */
 	}
 
 	.book-cover:hover {
