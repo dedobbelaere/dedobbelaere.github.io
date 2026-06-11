@@ -18,8 +18,6 @@ const finalTitle = title || frontmatter?.title || SITE_TITLE;
 const finalDescription = description || frontmatter?.description || SITE_DESCRIPTION;
 const finalHeaderTitle = headerTitle || frontmatter?.headerTitle || (frontmatter?.title) || (title && title !== "Home" ? title : null);
 
-// Special case for Homepage: we want "Welcome" as the header
-const displayHeader = (finalTitle === "Home" || Astro.url.pathname === "/") ? "About me" : finalHeaderTitle;
 ---
 
 <!doctype html>
