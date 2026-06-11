@@ -10,6 +10,7 @@ interface Props {
 const { title, description, image = '/css/monet-pourville.jpg', publishDate, ogType = 'website' } = Astro.props;
 const siteUrl = 'https://dedobb.xyz';
 const imageUrl = `${siteUrl}${image}`;
+const pageUrl = `${siteUrl}${Astro.url.pathname}`;
 
 // Use provided publishDate or fallback to current date (build time)
 const finalPublishDate = (publishDate ? new Date(publishDate) : new Date()).toISOString();
@@ -22,7 +23,7 @@ const finalPublishDate = (publishDate ? new Date(publishDate) : new Date()).toIS
 <meta name="generator" content={Astro.generator} />
 
 <!-- Canonical URL -->
-<link rel="canonical" href={`${siteUrl}${Astro.url.pathname}`} />
+<link rel="canonical" href={pageUrl} />
 
 <!-- Primary Meta Tags -->
 <title>{title}</title>
@@ -32,7 +33,7 @@ const finalPublishDate = (publishDate ? new Date(publishDate) : new Date()).toIS
 
 <!-- Open Graph / Facebook -->
 <meta property="og:type" content={ogType} />
-<meta property="og:url" content={`${siteUrl}${Astro.url.pathname}`} />
+<meta property="og:url" content={pageUrl} />
 <meta property="og:title" content={title} />
 <meta property="og:description" content={description} />
 <meta property="og:image" content={imageUrl} />
@@ -51,13 +52,13 @@ const finalPublishDate = (publishDate ? new Date(publishDate) : new Date()).toIS
   "headline": title,
   "description": description,
   "image": imageUrl,
-  "url": `${siteUrl}${Astro.url.pathname}`,
+  "url": pageUrl,
   ...(ogType === 'article' ? { "datePublished": finalPublishDate } : {})
 })} />
 
 <!-- Twitter -->
 <meta property="twitter:card" content="summary_large_image" />
-<meta property="twitter:url" content={`${siteUrl}${Astro.url.pathname}`} />
+<meta property="twitter:url" content={pageUrl} />
 <meta property="twitter:title" content={title} />
 <meta property="twitter:description" content={description} />
 <meta property="twitter:image" content={imageUrl} />
