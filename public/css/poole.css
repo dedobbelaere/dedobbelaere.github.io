@@ -45,6 +45,8 @@ html,
 body {
   margin: 0;
   padding: 0;
+  overflow-x: hidden;
+  overscroll-behavior-x: none;
 }
 
 html {
@@ -345,36 +347,25 @@ tbody tr:nth-child(odd) th {
 .post-title,
 .page-title,
 .page-heading {
-  position: relative;
   margin-top: 0;
   color: #fff;
   padding-top: 4rem;
   padding-left: 0.5rem;
-}
-
-.post-title::before,
-.page-title::before,
-.page-heading::before {
-  content: "";
-  position: absolute;
-  top: -100vh;
-  left: 0;
-  right: 0;
-  bottom: 0;
   background-image: url(water-lillies-monet.png);
   background-size: cover;
-  z-index: -1;
+  /* This creates a solid color "cushion" above the image for overscroll */
+  box-shadow: 0 -100vh 0 0 #23779b; 
 }
 
-.post-title::before {
+.post-title {
   background-position: left 0% bottom 0%;
 }
 
-.page-title::before {
+.page-title {
   background-position: bottom;
 }
 
-.page-heading::before {
+.page-heading {
   background-position: left;
 }
 
