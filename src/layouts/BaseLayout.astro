@@ -9,9 +9,10 @@ interface Props {
 	headerTitle?: string;
 	frontmatter?: any;
 	publishDate?: Date;
+	ogType?: 'website' | 'article';
 }
 
-const { title, description, headerTitle, frontmatter, publishDate } = Astro.props;
+const { title, description, headerTitle, frontmatter, publishDate, ogType } = Astro.props;
 
 // For Markdown files using this layout, props are in 'frontmatter'
 // For Astro components, they are in direct props
@@ -20,12 +21,16 @@ const finalDescription = description || frontmatter?.description || SITE_DESCRIP
 const finalHeaderTitle = headerTitle || frontmatter?.headerTitle || (frontmatter?.title) || (title && title !== "Home" ? title : null);
 const finalPublishDate = publishDate || frontmatter?.date;
 
+// Logic for Open Graph Type
+const isBlog = Astro.url.pathname.startsWith('/blog/');
+const finalOgType = ogType || (isBlog ? 'article' : 'website');
+
 const displayHeader = finalHeaderTitle;
 ---
 
 <!doctype html>
 <html lang="en-us">
-	<BaseHead title={finalTitle} description={finalDescription} publishDate={finalPublishDate} />
+	<BaseHead title={finalTitle} description={finalDescription} publishDate={finalPublishDate} ogType={finalOgType} />
 	<body class="theme-base-de">
 		<Sidebar />
 		<div class="content container">

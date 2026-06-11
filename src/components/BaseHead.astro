@@ -4,9 +4,10 @@ interface Props {
 	description: string;
 	image?: string;
 	publishDate?: Date;
+	ogType?: 'website' | 'article';
 }
 
-const { title, description, image = '/css/monet-pourville.jpg', publishDate } = Astro.props;
+const { title, description, image = '/css/monet-pourville.jpg', publishDate, ogType = 'website' } = Astro.props;
 const siteUrl = Astro.site || 'https://dedobb.xyz';
 const imageUrl = new URL(image, siteUrl).href;
 
@@ -43,7 +44,7 @@ const finalPublishDate = (publishDate ? new Date(publishDate) : new Date()).toIS
 <meta name="author" content="Adam DeDobbelaere">
 
 <!-- Open Graph / Facebook -->
-<meta property="og:type" content="website" />
+<meta property="og:type" content={ogType} />
 <meta property="og:url" content={Astro.url} />
 <meta property="og:title" content={title} />
 <meta property="og:description" content={description} />
@@ -53,7 +54,7 @@ const finalPublishDate = (publishDate ? new Date(publishDate) : new Date()).toIS
 <meta property="og:image:width" content="1200" />
 <meta property="og:image:height" content="630" />
 <meta name="image" content={imageUrl} />
-<meta property="article:published_time" content={finalPublishDate} />
+{ogType === 'article' && <meta property="article:published_time" content={finalPublishDate} />}
 
 <!-- Twitter -->
 <meta property="twitter:card" content="summary_large_image" />
