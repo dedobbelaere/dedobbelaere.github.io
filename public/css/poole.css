@@ -351,10 +351,23 @@ tbody tr:nth-child(odd) th {
   color: #fff;
   padding-top: 4rem;
   padding-left: 0.5rem;
+  margin-left: -1rem; /* Full width on mobile */
+  margin-right: -1rem;
+  padding-left: 1.5rem; /* Re-align text */
   background-image: url(water-lillies-monet.png);
   background-size: cover;
   /* This creates a solid color "cushion" above the image for overscroll */
   box-shadow: 0 -100vh 0 0 #23779b; 
+}
+
+@media (min-width: 48em) {
+  .post-title,
+  .page-title,
+  .page-heading {
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 0.5rem;
+  }
 }
 
 .post-title {
