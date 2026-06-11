@@ -18,6 +18,7 @@ const finalTitle = title || frontmatter?.title || SITE_TITLE;
 const finalDescription = description || frontmatter?.description || SITE_DESCRIPTION;
 const finalHeaderTitle = headerTitle || frontmatter?.headerTitle || (frontmatter?.title) || (title && title !== "Home" ? title : null);
 
+const displayHeader = finalHeaderTitle;
 ---
 
 <!doctype html>
