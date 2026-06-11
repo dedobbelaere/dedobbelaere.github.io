@@ -22,3 +22,10 @@ pnpm-debug.log*
 
 # jetbrains setting folder
 .idea/
+
+# misc
+calibre-web_info.txt
+
+# generated book data
+src/data/books.json
+public/covers/

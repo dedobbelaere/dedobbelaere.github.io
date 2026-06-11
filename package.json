@@ -7,9 +7,10 @@
   },
   "scripts": {
     "dev": "astro dev",
-    "build": "astro build",
+    "build": "node scripts/sync-books.js && astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "sync-books": "node scripts/sync-books.js"
   },
   "dependencies": {
     "@astrojs/mdx": "^6.0.2",
