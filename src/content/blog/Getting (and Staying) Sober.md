@@ -9,15 +9,13 @@ I quit drinking at 21, and so far I'm glad I did. I've managed (for the most par
 
 ***
 
-<a title="New Orleans Brewing Co, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:New_Orleans_Brewing_Company_4-X_Beer_label.jpg"><img width="512" alt="New Orleans Brewing Company 4-X Beer label" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/New_Orleans_Brewing_Company_4-X_Beer_label.jpg/512px-New_Orleans_Brewing_Company_4-X_Beer_label.jpg?20240526162808"></a>
+<a title="New Orleans Brewing Co, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:New_Orleans_Brewing_Company_4-X_Beer_label.jpg"><img width="100%" alt="New Orleans Brewing Company 4-X Beer label" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/New_Orleans_Brewing_Company_4-X_Beer_label.jpg/512px-New_Orleans_Brewing_Company_4-X_Beer_label.jpg?20240526162808"></a>
 
 ### The Long, Long Road to Sobriety
 
 I started drinking when I was 16, probably. I don't have a single memory that sticks out as my first time being drunk, or my first beer, or my first blackout. Precision isn't important. There were parties in basements, cheap beer, and (awful) flavored vodka. When I drank, I drank heavily, but generally no more than my peers. My experience was, I think, typical for the Midwest suburban teenager. 
 
-
 That's not to say that there weren't early warning signs that alcohol was not right thing for me. For one thing, after a party was over I still wanted more. It wasn't enough to already be drunk, I felt a compulsion to keep going. Usually I'd grab a beer or two on my way out from the party and drink it in the Uber home. Sometimes I'd steal a shot or four of Bailey's from my parents' liquor cabinet. There always had to be something extra.
-
 
 Sometimes I pushed myself beyond my limits. I remember one occasion where I drank far too much "America-flavored" Svedka (a truly horrible beverage), came home, vacated my stomach all over my room, and passed out on the floor. The next morning I was booked by the authorities (Mom and Dad), who made the astute observation that it was not normal for their 17-year-old son to be cleaning his room at 6 AM. I was grounded and sent to pull weeds, though there was no worse punishment than what my body was already inflicting on me. At that point I should have thought "Maybe I shouldn't drink that much ever again." Instead, the lesson I learned was "The next time I drink that much I'm gonna need to pace myself better."
 

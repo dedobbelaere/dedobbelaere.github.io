@@ -42,6 +42,12 @@ const posts = (await getCollection('blog')).sort(
 		}
 	</style>
 
+	<div class="post">
+		<p>
+		Below you can find my latest blog posts. For my academic readers, please note that the thoughts below are not intended to be final or academically rigorous. I use these pages as somethine more like a public, personal journal than as an outlet for serious thought. Some of my favorites can be found <a href="https://dedobb.xyz/blog/getting-and-staying-sober/" target="_blank">here</a>, <a href="https://dedobb.xyz/blog/invention-of-writing/" target="_blank">here</a>, and <a href="https://dedobb.xyz/blog/keeping-the-mystery-alive/" target="_blank">here</a>.
+		</p>
+	</div>
+
 	<ul class="blog-list">
 		{
 			posts.map((post) => (
