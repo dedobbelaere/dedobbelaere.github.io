@@ -57,11 +57,19 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 			}
 		</style>
 		<style is:global>
-			/* The .prose class targets your blog content wrapper */
-			/* The !important forces it to override element.style */
+			/* Prevent the parent link wrapper from stretching */
+			.prose a {
+				display: inline-block;
+				max-width: 100%;
+			}
+
+			/* The absolute maximum-priority override for the image */
 			.prose img {
+				width: 100% !important;
+				max-width: 100% !important;
 				height: auto !important;
 				object-fit: contain !important;
+				aspect-ratio: auto !important; 
 			}
 		</style>
 	</head>
