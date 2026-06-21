@@ -44,7 +44,7 @@ Nonetheless there are things to be done. I read about the war as much as I can. 
 
 I try to not preach in these posts, but I'll offer a few pieces of information that might be useful if this piece has moved you. First, most Ukrainians consider the start of the war to be in 2014, with the annexation of Crimea and invasion of the Donbas. 2022 marks the start of the full-scale invasion, not the start of the war. This is the fifth year of the full-scale invasion, but the thirteenth year of the war.
 
-Second, it is important to avoid the mindset that this war is the sole responsibility of Putin, and that once he's gone we can be friends with Russia. The Russian nationalist movement is much larger than Putin, and even opposition figures like Alexei Navalny have expressed anti-Ukraine views. An excellent piece on this subject can be found [here]([The Good Russian Is Not Coming To Save You](https://thechrissampson.substack.com/p/the-good-russian-is-not-coming-to)).
+Second, it is important to avoid the mindset that this war is the sole responsibility of Putin, and that once he's gone we can be friends with Russia. The Russian nationalist movement is much larger than Putin, and even opposition figures like Alexei Navalny have expressed anti-Ukraine views. An excellent piece on this subject can be found [here](https://thechrissampson.substack.com/p/the-good-russian-is-not-coming-to).
 
 Lastly, it is important to seek out the Ukrainian perspective whenever possible. The Kyiv Independent or Ukrainska Pravda, which both publish in English, are great sources. Also, Stanislav Aseyev's *In Isolation* is an excellent collection of essays from his time living in the Donbas during the initial invasion in 2014.
 
