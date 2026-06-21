@@ -33,7 +33,11 @@ At least, not directly. My roommate is Ukrainian. He grew up in a small town nea
 
 I do not pity my roommate, but I do worry for him. Whenever I read about a drone strike on Kyiv, my first thoughts are of him. I think of his girlfriend in Kyiv, and his family, and how much he stands to lose from this war each time Russia launches another swarm of drones. In many ways my roommate is my conduit for the human stakes of the war. He is, in fact, the reason I read *The City* in the first place. I had asked him about recommendations for Ukrainian literature and he bought four books for the living room bookshelf so I could get acquainted with the Ukrainian canon.
 
-[![Yuriy Khymych, Frosty Evening (Sofia Kyiv), 1992](../../assets/khymychSofia.jpg)](https://www.wikiart.org/en/khimich-yuriy-ivanovich/moroznyy-vecher-sofiya-kievskaya-1992)
+<img 
+  src="/khymychSofia.jpg" 
+  alt="Yuriy Khymych, Frosty Evening (Sofia Kyiv), 1992" 
+  style="max-width: 100%; height: auto !important; aspect-ratio: 750 / 570;" 
+/>
 <small>Yuriy Khymych, *Frosty Evening (Sofia Kyiv)*, 1992</small>
 
 Thus the war, despite its distance, is on my mind often. I also find myself thinking about what I ought to do in light of the war. About what anyone so far away from the war ought to do. A quote from Pynchon's *V.* comes to mind: "Love with your mouth shut, help without breaking your ass or publicizing it, keep cool, but care." As Tim Kreider sez: like a lot of wisdom, this sounds at first suspiciously similar to idiotic nonsense. Surely each of us bears responsibility for promoting peace, stopping war, and ensuring a stable geopolitical environment. How could I just sit back and let the war continue?!
