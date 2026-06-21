@@ -93,9 +93,10 @@ table {
 	width: 100%;
 }
 img {
-	max-width: 100%;
-	height: auto;
-	border-radius: 8px;
+    max-width: 100% !important;
+    height: auto !important;
+    object-fit: contain; /* Forces the browser to maintain aspect ratio */
+    border-radius: 8px;
 }
 code {
 	padding: 2px 5px;
