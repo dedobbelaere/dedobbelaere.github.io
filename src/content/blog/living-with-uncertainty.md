@@ -24,7 +24,7 @@ I have this problem often. I feel like I can't make a decision that affects some
 It's not that I find myself in a constant state of self-sacrifice. Rather, I know the decision I want to make, the decision that would be best for me, and I agonize over finding a way to justify it such that the person(s) who might be affected by that decision would be happy for me to make it. Usually I just make the decision anyways and take on some greater-than-proportional guilt for the decision made. As is the case with the philosophy of education class. I have no strong reasons for guilt, yet here I am writing 1000+ words about decision-making because of it.
 
 <img 
-  src="/blossom_full.jpg" 
+  src="/blossom_full.jpeg" 
   alt="Vincent van Gogh, Almond Blossoms, 1890" 
   style="max-width: 100%; height: auto !important; aspect-ratio: 750 / 570;" 
 />
