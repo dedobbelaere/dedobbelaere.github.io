@@ -22,7 +22,7 @@ Of course, the latter claim is far less contentious than the former. Most people
 <img 
   src="/sibyl.jpg" 
   alt="Elihu Vedder, Cumaean Sibyl, 1876" 
-  style="max-width: 100%; height: auto !important; aspect-ratio: 750 / 570;" 
+  style="max-width: 100%; height: auto !important;" 
 />
 <small>Elihu Vedder, *Cumaean Sibyl*, 1876</small>
 
