@@ -19,6 +19,13 @@ But there is also the further difficulty of balancing honesty with tact, analysi
 
 I write not in spite of this gap between us but because of it. I want to be known, to be understood. I want you to see into my slice of reality and find something valuable. I omit and obfuscate not to obscure the truth but to protect it, so that I only go so far as to write the things that I know are true, or, at the very least, the things I strongly suspect are true and my accompanying reasons for thinking so.
 
+<img 
+  src="/charingCross.jpg" 
+  alt="Claude Monet, Charing Cross Bridge, 1899" 
+  style="width: 100%; height: auto;" 
+/>
+<small>Claude Monet, *Charing Cross Bridge*, 1899</small>
+
 I find myself often coming back to a poem from Emily Dickinson:
 
 > Tell all the Truth but tell it slant --\
