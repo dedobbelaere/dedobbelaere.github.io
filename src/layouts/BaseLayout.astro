@@ -21,9 +21,7 @@ const finalDescription = description || frontmatter?.description || SITE_DESCRIP
 const finalHeaderTitle = headerTitle || frontmatter?.headerTitle || (frontmatter?.title) || (title && title !== "Home" ? title : null);
 const finalPublishDate = publishDate || frontmatter?.date;
 
-// Logic for Open Graph Type
-const isBlog = Astro.url.pathname.startsWith('/blog/');
-const finalOgType = ogType || (isBlog ? 'article' : 'website');
+const finalOgType = ogType || 'website';
 
 const displayHeader = finalHeaderTitle;
 ---
