@@ -19,7 +19,10 @@ Ph.D. Philosophy (expected 2029)
 B.A. Philosophy with Comprehensive Honors (2022)\
 Thesis: "Contingency in Spinoza’s *Ethics*: A Defense of the Strict Necessitarian Interpretation"
 
-## Talks and Comments
+## Talks, Comments, and Presentations
+
+*Chalmers for Chicagoans: An Introduction to the Hard Problem of Consciousness*\
+\- Kasthuri Lab, University of Chicago (2026)
 
 *Dodging the Question: Non-Solutions to Benardete Paradoxes*\
 \- 2025 Dr. Michael Gelven Graduate Philosophy Conference\
@@ -32,6 +35,14 @@ Thesis: "Contingency in Spinoza’s *Ethics*: A Defense of the Strict Necessitar
 \-  2024 University of Rochester Graduate Epistemology Conference
 
 ## Teaching
+
+**Introduction to Philosophy**<br />
+*University of Rochester, Fall 2026*<br />
+Guest lecture on the metaphysics of time
+
+**Introduction to Philosophy**<br />
+*University of Rochester, Fall 2026*<br />
+Teaching Assistant
 
 **Data, Algorithms, and Justice**<br />
 *University of Rochester, Spring 2026*<br />
@@ -50,11 +61,11 @@ Guest lecture on Spinoza's metaphysics
 **University of Rochester Medical Center**\
 *Research Assistant*\
 *Department of Health Humanities and Bioethics, Summer 2026*\
-Curently working on projects related to regulation of AI in healthcare and how medical AI affects informed consent.
+Worked on projects related to regulation of AI in healthcare and how medical AI affects informed consent.
 
 **Center for Policy and Animal Welfare**\
 *Policy Analyst, Summer 2026*\
-Currently assisting with public comments on proposed rule changes that bear on issues of animal welfare.
+Assisted with public comments on proposed rule changes that bear on issues of animal welfare.
 
 **University of Rochester Medical Center**\
 *Research Assistant*\
