@@ -19,20 +19,23 @@ Ph.D. Philosophy (expected 2029)
 B.A. Philosophy with Comprehensive Honors (2022)\
 Thesis: "Contingency in Spinoza’s *Ethics*: A Defense of the Strict Necessitarian Interpretation"
 
-## Talks, Comments, and Presentations
+## Invited Talks, Presentations, and Workshops
+
+*Upstate NY AI Safety Workshop*\
+\- Participant (November 2026)
 
 *Chalmers for Chicagoans: An Introduction to the Hard Problem of Consciousness*\
-\- Kasthuri Lab, University of Chicago (2026)
+\- Kasthuri Lab, University of Chicago (October 2026)
 
 *Dodging the Question: Non-Solutions to Benardete Paradoxes*\
-\- 2025 Dr. Michael Gelven Graduate Philosophy Conference\
-\- 2025 Illinois Philosophical Association Annual Conference
+\- Illinois Philosophical Association Annual Conference (November 2025)
+\- Dr. Michael Gelven Graduate Philosophy Conference (October 2025)\
 
 *A Mereological Middle-Ground: Mind-Dependence and Composite Objects*\
-\- 18th Annual Western Michigan University Graduate Conference (2025)
+\- 18th Annual Western Michigan University Graduate Conference (March 2025)
 
 *Comments on Akshan DeAlwis’s “Complexity and Knowledge with an Inferential Etiology”*\
-\-  2024 University of Rochester Graduate Epistemology Conference
+\-  University of Rochester Graduate Epistemology Conference (October 2024)
 
 ## Teaching
 
@@ -55,6 +58,20 @@ Teaching Assistant
 **Early Modern Philosophy**<br />
 *University of Rochester, Fall 2025*<br />
 Guest lecture on Spinoza's metaphysics
+
+## Service
+
+**University of Rochester Graduate Epistemology Conference**\
+*Organizer, 2026*\
+
+**University of Rochester, Department of Philosophy**\
+*Graduate Student Representative, 2026-2027*\
+
+**Sifting & Winnowing Foundation**\
+*Board Member & Public Relations Director, 2019-2022*\
+
+**Avukah Journal of Jewish Studies**\
+*Creative Director, 2018-2019*\
 
 ## Experience
 
@@ -88,20 +105,6 @@ Host, *In the Same Vein*, Podcast<br />
 *UW-Madison* Honors in the Major - Philosophy (2022)\
 *UW-Madison* Honors in the Liberal Arts (2022)\
 Receiving both Honors in the Major and Honors in the Liberal Arts conferred the Comprehensive Honors distinction on my degree.
-
-## Service
-
-**University of Rochester, Department of Philosophy**\
-*Graduate Student Representative, 2026-2027*\
-I serve as a liaison between the graduate students of the department of philosophy and the faculty and administration of the university.
-
-**Sifting & Winnowing Foundation**\
-*Board Member & Public Relations Director, 2019-2022*\
-The Sifting & Winnowing Foundation was a public policy organization that put on a yearly policy memo conference at UW-Madison. I oversaw the branding, marketing, and growth strategy for the organization, including the design of the published journal. I also managed a team of graphic designers and social media managers who carried out day-to-day publicity and publishing work.
-
-**Avukah Journal of Jewish Studies**\
-*Creative Director, 2018-2019*\
-I created a full brand toolkit for the journal, including logo, typefaces, and layouts. I trained and led a team of graphic designers in the production of the journal and in the future management of the journal's brand.
 
 ## Pizza
 
