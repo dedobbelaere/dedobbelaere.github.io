@@ -102,12 +102,12 @@ Host, *In the Same Vein*, Podcast<br />
 
 ## Grants and Honors
 
-*UW-Madison* Degree granted with Comprehensive Honors (2022)\
-(UW-Madison grants Comprehensive Honors for students who receive both Honors in the Major and Honors in the Liberal Arts.)
+*University of Rochester GEPA* InternPhD Summer Stipend (2026, $3,000)
 
 *University of Rochester Department of Philosophy* Graduate Travel Award (2025, $500)
 
-*University of Rochester GEPA* InternPhD Summer Stipend (2026, $3,000)
+*UW-Madison* Degree granted with Comprehensive Honors (2022)\
+(UW-Madison grants Comprehensive Honors for students who receive both Honors in the Major and Honors in the Liberal Arts.)
 
 ## Pizza
 
