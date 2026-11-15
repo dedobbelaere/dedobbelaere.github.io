@@ -107,6 +107,8 @@ Host, *In the Same Vein*, Podcast<br />
 
 *University of Rochester Department of Philosophy* Graduate Travel Award (2025, $500)
 
+*University of Rochester GEPA* InternPhD Summer Stipend (2026, $3,000)
+
 ## Pizza
 
 **Pontillo's Pizza** Bushnell's Basin, NY\
