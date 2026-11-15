@@ -102,9 +102,10 @@ Host, *In the Same Vein*, Podcast<br />
 
 ## Grants and Honors
 
-*UW-Madison* Honors in the Major - Philosophy (2022)\
-*UW-Madison* Honors in the Liberal Arts (2022)\
-Receiving both Honors in the Major and Honors in the Liberal Arts conferred the Comprehensive Honors distinction on my degree.
+*UW-Madison* Degree granted with Comprehensive Honors (2022)\
+(UW-Madison grants Comprehensive Honors for students who receive both Honors in the Major and Honors in the Liberal Arts.)
+
+*University of Rochester Department of Philosophy* Graduate Travel Award (2025, $500)
 
 ## Pizza
 
